@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ujala9968/leetcode-sol/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ujala9968/leetcode-sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0139-word-break](https://github.com/ujala9968/leetcode-sol/tree/master/0139-word-break) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ujala9968/leetcode-sol/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ujala9968/leetcode-sol/tree/master/0033-search-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ujala9968/leetcode-sol/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
