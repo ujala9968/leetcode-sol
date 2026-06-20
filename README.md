@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ujala9968/leetcode-sol/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ujala9968/leetcode-sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0139-word-break](https://github.com/ujala9968/leetcode-sol/tree/master/0139-word-break) |
 ## Hash Table
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ujala9968/leetcode-sol/tree/master/0139-word-break) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ujala9968/leetcode-sol/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
