@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ujala9968/leetcode-sol/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ujala9968/leetcode-sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ujala9968/leetcode-sol/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/ujala9968/leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0139-word-break](https://github.com/ujala9968/leetcode-sol/tree/master/0139-word-break) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ujala9968/leetcode-sol/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ujala9968/leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0139-word-break](https://github.com/ujala9968/leetcode-sol/tree/master/0139-word-break) |
 ## Trie
 |  |
@@ -40,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ujala9968/leetcode-sol/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ujala9968/leetcode-sol/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ujala9968/leetcode-sol/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ujala9968/leetcode-sol/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
