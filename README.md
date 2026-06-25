@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ujala9968/leetcode-sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ujala9968/leetcode-sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ujala9968/leetcode-sol/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/ujala9968/leetcode-sol/tree/master/0048-rotate-image) |
 | [0139-word-break](https://github.com/ujala9968/leetcode-sol/tree/master/0139-word-break) |
 | [0238-product-of-array-except-self](https://github.com/ujala9968/leetcode-sol/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/ujala9968/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
@@ -103,9 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ujala9968/leetcode-sol/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/ujala9968/leetcode-sol/tree/master/0048-rotate-image) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ujala9968/leetcode-sol/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ujala9968/leetcode-sol/tree/master/0232-implement-queue-using-stacks) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ujala9968/leetcode-sol/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
