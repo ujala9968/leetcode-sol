@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ujala9968/leetcode-sol/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/ujala9968/leetcode-sol/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/ujala9968/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
+| [0460-lfu-cache](https://github.com/ujala9968/leetcode-sol/tree/master/0460-lfu-cache) |
 ## String
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ujala9968/leetcode-sol/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ujala9968/leetcode-sol/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/ujala9968/leetcode-sol/tree/master/0295-find-median-from-data-stream) |
+| [0460-lfu-cache](https://github.com/ujala9968/leetcode-sol/tree/master/0460-lfu-cache) |
 ## Sorting
 |  |
 | ------- |
@@ -120,8 +122,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ujala9968/leetcode-sol/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/ujala9968/leetcode-sol/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ujala9968/leetcode-sol/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/ujala9968/leetcode-sol/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
