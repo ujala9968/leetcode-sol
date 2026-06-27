@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ujala9968/leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ujala9968/leetcode-sol/tree/master/0048-rotate-image) |
 | [0139-word-break](https://github.com/ujala9968/leetcode-sol/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/ujala9968/leetcode-sol/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/ujala9968/leetcode-sol/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/ujala9968/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ujala9968/leetcode-sol/tree/master/0540-single-element-in-a-sorted-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ujala9968/leetcode-sol/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/ujala9968/leetcode-sol/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/ujala9968/leetcode-sol/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/ujala9968/leetcode-sol/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ujala9968/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/ujala9968/leetcode-sol/tree/master/0460-lfu-cache) |
 ## String
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ujala9968/leetcode-sol/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/ujala9968/leetcode-sol/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ujala9968/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ujala9968/leetcode-sol/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/ujala9968/leetcode-sol/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ujala9968/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -99,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ujala9968/leetcode-sol/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ujala9968/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
