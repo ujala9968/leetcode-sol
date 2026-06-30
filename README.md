@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ujala9968/leetcode-sol/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/ujala9968/leetcode-sol/tree/master/0139-word-break) |
+| [0686-repeated-string-match](https://github.com/ujala9968/leetcode-sol/tree/master/0686-repeated-string-match) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ujala9968/leetcode-sol/tree/master/0239-sliding-window-maximum) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/ujala9968/leetcode-sol/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
