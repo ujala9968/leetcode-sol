@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ujala9968/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ujala9968/leetcode-sol/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/ujala9968/leetcode-sol/tree/master/0713-subarray-product-less-than-k) |
+| [0867-transpose-matrix](https://github.com/ujala9968/leetcode-sol/tree/master/0867-transpose-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/ujala9968/leetcode-sol/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ujala9968/leetcode-sol/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/ujala9968/leetcode-sol/tree/master/0867-transpose-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1211-queries-quality-and-percentage](https://github.com/ujala9968/leetcode-sol/tree/master/1211-queries-quality-and-percentage) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/ujala9968/leetcode-sol/tree/master/1633-percentage-of-users-attended-a-contest) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/ujala9968/leetcode-sol/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
