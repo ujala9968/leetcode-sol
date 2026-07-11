@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ujala9968/leetcode-sol/tree/master/0713-subarray-product-less-than-k) |
 | [0867-transpose-matrix](https://github.com/ujala9968/leetcode-sol/tree/master/0867-transpose-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/ujala9968/leetcode-sol/tree/master/1004-max-consecutive-ones-iii) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/ujala9968/leetcode-sol/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ujala9968/leetcode-sol/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/ujala9968/leetcode-sol/tree/master/0867-transpose-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/ujala9968/leetcode-sol/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Linked List
 |  |
 | ------- |
