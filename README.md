@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ujala9968/leetcode-sol/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ujala9968/leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ujala9968/leetcode-sol/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ujala9968/leetcode-sol/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/ujala9968/leetcode-sol/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ujala9968/leetcode-sol/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/ujala9968/leetcode-sol/tree/master/0901-online-stock-span) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ujala9968/leetcode-sol/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/ujala9968/leetcode-sol/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/ujala9968/leetcode-sol/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ujala9968/leetcode-sol/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/ujala9968/leetcode-sol/tree/master/0295-find-median-from-data-stream) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ujala9968/leetcode-sol/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ujala9968/leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ujala9968/leetcode-sol/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ujala9968/leetcode-sol/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/ujala9968/leetcode-sol/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ujala9968/leetcode-sol/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ujala9968/leetcode-sol/tree/master/0543-diameter-of-binary-tree) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ujala9968/leetcode-sol/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ujala9968/leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ujala9968/leetcode-sol/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ujala9968/leetcode-sol/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/ujala9968/leetcode-sol/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ujala9968/leetcode-sol/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ujala9968/leetcode-sol/tree/master/0543-diameter-of-binary-tree) |
@@ -278,8 +282,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujala9968/leetcode-sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/ujala9968/leetcode-sol/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ujala9968/leetcode-sol/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujala9968/leetcode-sol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ujala9968/leetcode-sol/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ujala9968/leetcode-sol/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ujala9968/leetcode-sol/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
