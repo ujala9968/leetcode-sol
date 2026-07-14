@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ujala9968/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ujala9968/leetcode-sol/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/ujala9968/leetcode-sol/tree/master/0713-subarray-product-less-than-k) |
+| [0766-toeplitz-matrix](https://github.com/ujala9968/leetcode-sol/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/ujala9968/leetcode-sol/tree/master/0867-transpose-matrix) |
 | [0962-maximum-width-ramp](https://github.com/ujala9968/leetcode-sol/tree/master/0962-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/ujala9968/leetcode-sol/tree/master/1004-max-consecutive-ones-iii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ujala9968/leetcode-sol/tree/master/0048-rotate-image) |
+| [0766-toeplitz-matrix](https://github.com/ujala9968/leetcode-sol/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/ujala9968/leetcode-sol/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ujala9968/leetcode-sol/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Linked List
