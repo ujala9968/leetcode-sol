@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ujala9968/leetcode-sol/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ujala9968/leetcode-sol/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujala9968/leetcode-sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/ujala9968/leetcode-sol/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/ujala9968/leetcode-sol/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ujala9968/leetcode-sol/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/ujala9968/leetcode-sol/tree/master/0238-product-of-array-except-self) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ujala9968/leetcode-sol/tree/master/0042-trapping-rain-water) |
+| [0119-pascals-triangle-ii](https://github.com/ujala9968/leetcode-sol/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/ujala9968/leetcode-sol/tree/master/0139-word-break) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ujala9968/leetcode-sol/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ujala9968/leetcode-sol/tree/master/1373-maximum-sum-bst-in-binary-tree) |
