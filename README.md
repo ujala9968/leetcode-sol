@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ujala9968/leetcode-sol/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ujala9968/leetcode-sol/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ujala9968/leetcode-sol/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1528-shuffle-string](https://github.com/ujala9968/leetcode-sol/tree/master/1528-shuffle-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ujala9968/leetcode-sol/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0686-repeated-string-match](https://github.com/ujala9968/leetcode-sol/tree/master/0686-repeated-string-match) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ujala9968/leetcode-sol/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1528-shuffle-string](https://github.com/ujala9968/leetcode-sol/tree/master/1528-shuffle-string) |
 ## Dynamic Programming
 |  |
 | ------- |
