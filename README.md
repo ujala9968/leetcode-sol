@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/ujala9968/leetcode-sol/tree/master/1108-defanging-an-ip-address) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ujala9968/leetcode-sol/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1528-shuffle-string](https://github.com/ujala9968/leetcode-sol/tree/master/1528-shuffle-string) |
+| [1768-merge-strings-alternately](https://github.com/ujala9968/leetcode-sol/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ujala9968/leetcode-sol/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujala9968/leetcode-sol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0962-maximum-width-ramp](https://github.com/ujala9968/leetcode-sol/tree/master/0962-maximum-width-ramp) |
+| [1768-merge-strings-alternately](https://github.com/ujala9968/leetcode-sol/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
