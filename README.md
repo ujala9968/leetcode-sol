@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ujala9968/leetcode-sol/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1528-shuffle-string](https://github.com/ujala9968/leetcode-sol/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/ujala9968/leetcode-sol/tree/master/1768-merge-strings-alternately) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ujala9968/leetcode-sol/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ujala9968/leetcode-sol/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ujala9968/leetcode-sol/tree/master/0048-rotate-image) |
 | [0415-add-strings](https://github.com/ujala9968/leetcode-sol/tree/master/0415-add-strings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ujala9968/leetcode-sol/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ujala9968/leetcode-sol/tree/master/3536-maximum-product-of-two-digits) |
 ## Queue
 |  |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ujala9968/leetcode-sol/tree/master/0179-largest-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ujala9968/leetcode-sol/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Union-Find
 |  |
 | ------- |
