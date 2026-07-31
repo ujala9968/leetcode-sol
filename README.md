@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ujala9968/leetcode-sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ujala9968/leetcode-sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ujala9968/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
+| [0278-first-bad-version](https://github.com/ujala9968/leetcode-sol/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ujala9968/leetcode-sol/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/ujala9968/leetcode-sol/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ujala9968/leetcode-sol/tree/master/1004-max-consecutive-ones-iii) |
@@ -351,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ujala9968/leetcode-sol/tree/master/0200-number-of-islands) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ujala9968/leetcode-sol/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
