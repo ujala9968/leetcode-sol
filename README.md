@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ujala9968/leetcode-sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ujala9968/leetcode-sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ujala9968/leetcode-sol/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ujala9968/leetcode-sol/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ujala9968/leetcode-sol/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/ujala9968/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ujala9968/leetcode-sol/tree/master/0084-largest-rectangle-in-histogram) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ujala9968/leetcode-sol/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ujala9968/leetcode-sol/tree/master/0045-jump-game-ii) |
 | [0119-pascals-triangle-ii](https://github.com/ujala9968/leetcode-sol/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/ujala9968/leetcode-sol/tree/master/0139-word-break) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ujala9968/leetcode-sol/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ujala9968/leetcode-sol/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/ujala9968/leetcode-sol/tree/master/0179-largest-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ujala9968/leetcode-sol/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Union-Find
