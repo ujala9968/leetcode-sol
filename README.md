@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ujala9968/leetcode-sol/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/ujala9968/leetcode-sol/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ujala9968/leetcode-sol/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ujala9968/leetcode-sol/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ujala9968/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/ujala9968/leetcode-sol/tree/master/0460-lfu-cache) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujala9968/leetcode-sol/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ujala9968/leetcode-sol/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/ujala9968/leetcode-sol/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/ujala9968/leetcode-sol/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/ujala9968/leetcode-sol/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ujala9968/leetcode-sol/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0415-add-strings](https://github.com/ujala9968/leetcode-sol/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/ujala9968/leetcode-sol/tree/master/0443-string-compression) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ujala9968/leetcode-sol/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ujala9968/leetcode-sol/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ujala9968/leetcode-sol/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/ujala9968/leetcode-sol/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/ujala9968/leetcode-sol/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ujala9968/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ujala9968/leetcode-sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
