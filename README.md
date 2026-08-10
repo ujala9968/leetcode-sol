@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ujala9968/leetcode-sol/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ujala9968/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ujala9968/leetcode-sol/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/ujala9968/leetcode-sol/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ujala9968/leetcode-sol/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/ujala9968/leetcode-sol/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/ujala9968/leetcode-sol/tree/master/0766-toeplitz-matrix) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ujala9968/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/ujala9968/leetcode-sol/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ujala9968/leetcode-sol/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/ujala9968/leetcode-sol/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ujala9968/leetcode-sol/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ujala9968/leetcode-sol/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
