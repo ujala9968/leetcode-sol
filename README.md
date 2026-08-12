@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujala9968/leetcode-sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/ujala9968/leetcode-sol/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/ujala9968/leetcode-sol/tree/master/0139-word-break) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ujala9968/leetcode-sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ujala9968/leetcode-sol/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ujala9968/leetcode-sol/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/ujala9968/leetcode-sol/tree/master/0200-number-of-islands) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ujala9968/leetcode-sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ujala9968/leetcode-sol/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ujala9968/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ujala9968/leetcode-sol/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/ujala9968/leetcode-sol/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ujala9968/leetcode-sol/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ujala9968/leetcode-sol/tree/master/0704-binary-search) |
