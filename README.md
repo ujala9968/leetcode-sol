@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ujala9968/leetcode-sol/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/ujala9968/leetcode-sol/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/ujala9968/leetcode-sol/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/ujala9968/leetcode-sol/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ujala9968/leetcode-sol/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ujala9968/leetcode-sol/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ujala9968/leetcode-sol/tree/master/0242-valid-anagram) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ujala9968/leetcode-sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ujala9968/leetcode-sol/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/ujala9968/leetcode-sol/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/ujala9968/leetcode-sol/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/ujala9968/leetcode-sol/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/ujala9968/leetcode-sol/tree/master/0443-string-compression) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ujala9968/leetcode-sol/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ujala9968/leetcode-sol/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0141-linked-list-cycle](https://github.com/ujala9968/leetcode-sol/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ujala9968/leetcode-sol/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/ujala9968/leetcode-sol/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
@@ -380,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ujala9968/leetcode-sol/tree/master/0278-first-bad-version) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ujala9968/leetcode-sol/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
