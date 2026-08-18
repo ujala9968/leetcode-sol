@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/ujala9968/leetcode-sol/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/ujala9968/leetcode-sol/tree/master/0610-triangle-judgement) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/ujala9968/leetcode-sol/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/ujala9968/leetcode-sol/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/ujala9968/leetcode-sol/tree/master/1211-queries-quality-and-percentage) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/ujala9968/leetcode-sol/tree/master/1633-percentage-of-users-attended-a-contest) |
