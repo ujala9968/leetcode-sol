@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ujala9968/leetcode-sol/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ujala9968/leetcode-sol/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ujala9968/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/ujala9968/leetcode-sol/tree/master/0383-ransom-note) |
 | [0460-lfu-cache](https://github.com/ujala9968/leetcode-sol/tree/master/0460-lfu-cache) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujala9968/leetcode-sol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ujala9968/leetcode-sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ujala9968/leetcode-sol/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/ujala9968/leetcode-sol/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ujala9968/leetcode-sol/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0383-ransom-note](https://github.com/ujala9968/leetcode-sol/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/ujala9968/leetcode-sol/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/ujala9968/leetcode-sol/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/ujala9968/leetcode-sol/tree/master/0686-repeated-string-match) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ujala9968/leetcode-sol/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ujala9968/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/ujala9968/leetcode-sol/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
