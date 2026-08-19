@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/ujala9968/leetcode-sol/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0596-classes-with-at-least-5-students](https://github.com/ujala9968/leetcode-sol/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/ujala9968/leetcode-sol/tree/master/0610-triangle-judgement) |
+| [0620-not-boring-movies](https://github.com/ujala9968/leetcode-sol/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/ujala9968/leetcode-sol/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/ujala9968/leetcode-sol/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/ujala9968/leetcode-sol/tree/master/1211-queries-quality-and-percentage) |
