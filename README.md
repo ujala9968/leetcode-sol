@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/ujala9968/leetcode-sol/tree/master/0962-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/ujala9968/leetcode-sol/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ujala9968/leetcode-sol/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ujala9968/leetcode-sol/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ujala9968/leetcode-sol/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1528-shuffle-string](https://github.com/ujala9968/leetcode-sol/tree/master/1528-shuffle-string) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ujala9968/leetcode-sol/tree/master/1552-magnetic-force-between-two-balls) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ujala9968/leetcode-sol/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ujala9968/leetcode-sol/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ujala9968/leetcode-sol/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ujala9968/leetcode-sol/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ujala9968/leetcode-sol/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
 |  |
