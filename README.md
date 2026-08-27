@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/ujala9968/leetcode-sol/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/ujala9968/leetcode-sol/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/ujala9968/leetcode-sol/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/ujala9968/leetcode-sol/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/ujala9968/leetcode-sol/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/ujala9968/leetcode-sol/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/ujala9968/leetcode-sol/tree/master/1193-monthly-transactions-i) |
