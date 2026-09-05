@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ujala9968/leetcode-sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ujala9968/leetcode-sol/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/ujala9968/leetcode-sol/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/ujala9968/leetcode-sol/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ujala9968/leetcode-sol/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/ujala9968/leetcode-sol/tree/master/0165-compare-version-numbers) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/ujala9968/leetcode-sol/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ujala9968/leetcode-sol/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ujala9968/leetcode-sol/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ujala9968/leetcode-sol/tree/master/0116-populating-next-right-pointers-in-each-node) |
