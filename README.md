@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ujala9968/leetcode-sol/tree/master/0415-add-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ujala9968/leetcode-sol/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ujala9968/leetcode-sol/tree/master/3536-maximum-product-of-two-digits) |
+| [3870-count-commas-in-range](https://github.com/ujala9968/leetcode-sol/tree/master/3870-count-commas-in-range) |
 ## Queue
 |  |
 | ------- |
