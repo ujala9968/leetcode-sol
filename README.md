@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ujala9968/leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ujala9968/leetcode-sol/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/ujala9968/leetcode-sol/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/ujala9968/leetcode-sol/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/ujala9968/leetcode-sol/tree/master/0139-word-break) |
 | [0410-split-array-largest-sum](https://github.com/ujala9968/leetcode-sol/tree/master/0410-split-array-largest-sum) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ujala9968/leetcode-sol/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/ujala9968/leetcode-sol/tree/master/0139-word-break) |
 ## Binary Search
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ujala9968/leetcode-sol/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ujala9968/leetcode-sol/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/ujala9968/leetcode-sol/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/ujala9968/leetcode-sol/tree/master/0415-add-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ujala9968/leetcode-sol/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ujala9968/leetcode-sol/tree/master/3536-maximum-product-of-two-digits) |
