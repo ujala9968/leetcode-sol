@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ujala9968/leetcode-sol/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ujala9968/leetcode-sol/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ujala9968/leetcode-sol/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1366-rank-teams-by-votes](https://github.com/ujala9968/leetcode-sol/tree/master/1366-rank-teams-by-votes) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ujala9968/leetcode-sol/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ujala9968/leetcode-sol/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1528-shuffle-string](https://github.com/ujala9968/leetcode-sol/tree/master/1528-shuffle-string) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/ujala9968/leetcode-sol/tree/master/0460-lfu-cache) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujala9968/leetcode-sol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ujala9968/leetcode-sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1366-rank-teams-by-votes](https://github.com/ujala9968/leetcode-sol/tree/master/1366-rank-teams-by-votes) |
 | [3731-find-missing-elements](https://github.com/ujala9968/leetcode-sol/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/ujala9968/leetcode-sol/tree/master/0686-repeated-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/ujala9968/leetcode-sol/tree/master/1108-defanging-an-ip-address) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ujala9968/leetcode-sol/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1366-rank-teams-by-votes](https://github.com/ujala9968/leetcode-sol/tree/master/1366-rank-teams-by-votes) |
 | [1528-shuffle-string](https://github.com/ujala9968/leetcode-sol/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/ujala9968/leetcode-sol/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ujala9968/leetcode-sol/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/ujala9968/leetcode-sol/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ujala9968/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ujala9968/leetcode-sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1366-rank-teams-by-votes](https://github.com/ujala9968/leetcode-sol/tree/master/1366-rank-teams-by-votes) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ujala9968/leetcode-sol/tree/master/1552-magnetic-force-between-two-balls) |
 | [3536-maximum-product-of-two-digits](https://github.com/ujala9968/leetcode-sol/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/ujala9968/leetcode-sol/tree/master/3731-find-missing-elements) |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ujala9968/leetcode-sol/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ujala9968/leetcode-sol/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ujala9968/leetcode-sol/tree/master/0383-ransom-note) |
+| [1366-rank-teams-by-votes](https://github.com/ujala9968/leetcode-sol/tree/master/1366-rank-teams-by-votes) |
 ## Quickselect
 |  |
 | ------- |
