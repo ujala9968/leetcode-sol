@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ujala9968/leetcode-sol/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ujala9968/leetcode-sol/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/ujala9968/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ujala9968/leetcode-sol/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ujala9968/leetcode-sol/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ujala9968/leetcode-sol/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujala9968/leetcode-sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -429,4 +430,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ujala9968/leetcode-sol/tree/master/0143-reorder-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ujala9968/leetcode-sol/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ujala9968/leetcode-sol/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
