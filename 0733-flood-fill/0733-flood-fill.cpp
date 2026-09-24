@@ -1,35 +1,48 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>>& image, int row, int col,
-             int oldColor, int color) {
+    void solve(vector<vector<int>>& image,
+               int cr, int cc,
+               int color, int oldcolor) {
 
-        if (row < 0 || col < 0 ||
-            row >= image.size() || col >= image[0].size())
+        // Out of bounds
+        if (cr < 0 || cc < 0 ||
+            cr >= image.size() ||
+            cc >= image[0].size()) {
             return;
+        }
 
-        if (image[row][col] != oldColor)
+        // Only change cells having old color
+        if (image[cr][cc] != oldcolor) {
             return;
+        }
 
-        // Change color
-        image[row][col] = color;
+        // Fill current cell
+        image[cr][cc] = color;
 
-        // Visit 4 directions
-        dfs(image, row - 1, col, oldColor, color); // Up
-        dfs(image, row + 1, col, oldColor, color); // Down
-        dfs(image, row, col - 1, oldColor, color); // Left
-        dfs(image, row, col + 1, oldColor, color); // Right
+        // Up
+        solve(image, cr - 1, cc, color, oldcolor);
+
+        // Down
+        solve(image, cr + 1, cc, color, oldcolor);
+
+        // Left
+        solve(image, cr, cc - 1, color, oldcolor);
+
+        // Right
+        solve(image, cr, cc + 1, color, oldcolor);
     }
 
     vector<vector<int>> floodFill(vector<vector<int>>& image,
-                                  int sr, int sc, int color) {
+                                   int sr, int sc, int color) {
 
-        int oldColor = image[sr][sc];
+        int oldcolor = image[sr][sc];
 
-        // Avoid infinite recursion
-        if (oldColor == color)
+        // Nothing to change
+        if (oldcolor == color) {
             return image;
+        }
 
-        dfs(image, sr, sc, oldColor, color);
+        solve(image, sr, sc, color, oldcolor);
 
         return image;
     }
