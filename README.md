@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ujala9968/leetcode-sol/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ujala9968/leetcode-sol/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/ujala9968/leetcode-sol/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/ujala9968/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/ujala9968/leetcode-sol/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/ujala9968/leetcode-sol/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/ujala9968/leetcode-sol/tree/master/0875-koko-eating-bananas) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/ujala9968/leetcode-sol/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/ujala9968/leetcode-sol/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ujala9968/leetcode-sol/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/ujala9968/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ujala9968/leetcode-sol/tree/master/0901-online-stock-span) |
 | [0962-maximum-width-ramp](https://github.com/ujala9968/leetcode-sol/tree/master/0962-maximum-width-ramp) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ujala9968/leetcode-sol/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ujala9968/leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ujala9968/leetcode-sol/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/ujala9968/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ujala9968/leetcode-sol/tree/master/0901-online-stock-span) |
 | [0962-maximum-width-ramp](https://github.com/ujala9968/leetcode-sol/tree/master/0962-maximum-width-ramp) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ujala9968/leetcode-sol/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
