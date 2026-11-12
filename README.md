@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ujala9968/leetcode-sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/ujala9968/leetcode-sol/tree/master/0038-count-and-say) |
 | [0139-word-break](https://github.com/ujala9968/leetcode-sol/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/ujala9968/leetcode-sol/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ujala9968/leetcode-sol/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/ujala9968/leetcode-sol/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/ujala9968/leetcode-sol/tree/master/0242-valid-anagram) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/ujala9968/leetcode-sol/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/ujala9968/leetcode-sol/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ujala9968/leetcode-sol/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/ujala9968/leetcode-sol/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ujala9968/leetcode-sol/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/ujala9968/leetcode-sol/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/ujala9968/leetcode-sol/tree/master/0344-reverse-string) |
