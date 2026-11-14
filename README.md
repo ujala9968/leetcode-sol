@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/ujala9968/leetcode-sol/tree/master/1528-shuffle-string) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ujala9968/leetcode-sol/tree/master/1552-magnetic-force-between-two-balls) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ujala9968/leetcode-sol/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ujala9968/leetcode-sol/tree/master/3364-minimum-positive-sum-subarray) |
 | [3731-find-missing-elements](https://github.com/ujala9968/leetcode-sol/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ujala9968/leetcode-sol/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ujala9968/leetcode-sol/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ujala9968/leetcode-sol/tree/master/1004-max-consecutive-ones-iii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ujala9968/leetcode-sol/tree/master/3364-minimum-positive-sum-subarray) |
 ## Design
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ujala9968/leetcode-sol/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/ujala9968/leetcode-sol/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ujala9968/leetcode-sol/tree/master/1004-max-consecutive-ones-iii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ujala9968/leetcode-sol/tree/master/3364-minimum-positive-sum-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
