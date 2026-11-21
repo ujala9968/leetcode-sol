@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/ujala9968/leetcode-sol/tree/master/1528-shuffle-string) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ujala9968/leetcode-sol/tree/master/1552-magnetic-force-between-two-balls) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ujala9968/leetcode-sol/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ujala9968/leetcode-sol/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ujala9968/leetcode-sol/tree/master/3364-minimum-positive-sum-subarray) |
 | [3731-find-missing-elements](https://github.com/ujala9968/leetcode-sol/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ujala9968/leetcode-sol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ujala9968/leetcode-sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1366-rank-teams-by-votes](https://github.com/ujala9968/leetcode-sol/tree/master/1366-rank-teams-by-votes) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ujala9968/leetcode-sol/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3731-find-missing-elements](https://github.com/ujala9968/leetcode-sol/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/ujala9968/leetcode-sol/tree/master/1768-merge-strings-alternately) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ujala9968/leetcode-sol/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ujala9968/leetcode-sol/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ujala9968/leetcode-sol/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ujala9968/leetcode-sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ujala9968/leetcode-sol/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ujala9968/leetcode-sol/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ujala9968/leetcode-sol/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ujala9968/leetcode-sol/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ujala9968/leetcode-sol/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ujala9968/leetcode-sol/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/ujala9968/leetcode-sol/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
